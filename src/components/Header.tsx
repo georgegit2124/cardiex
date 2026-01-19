@@ -22,7 +22,7 @@ const Header = () => {
         <div className="flex items-center gap-3">
           <div className="flex h-10 w-10 items-center justify-center rounded-lg font-display text-xl text-primary-foreground">
 
-            <img src="src/components/6799B0C5-59C7-4F7B-A265-1FB185538205.png" alt="Cardiex Logo" className="h-10" />
+            <img src="public/6799B0C5-59C7-4F7B-A265-1FB185538205.png" alt="Cardiex Logo" className="h-10" />
 
           </div>
           <div>
